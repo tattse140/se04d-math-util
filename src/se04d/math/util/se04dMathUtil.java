@@ -3,15 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.ta.mathutil.main;
+package se04d.math.util;
 
-import com.ta.mathutil.MathUtility;
+import com.fu.MathUtility;
 
 /**
  *
  * @author BiV
  */
-public class Main {
+public class se04dMathUtil {
     public static void main(String[] args) {
         //test 5! = 120 ko
         int n = 5;
