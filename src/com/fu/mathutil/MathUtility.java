@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.fu;
+package com.fu.mathutil;
 
 /**
  *
@@ -29,7 +29,7 @@ public class MathUtility {
             if( n==0 || n ==1)
                 return 1; 
             
-            long result = 1;// co tinh de value nay
+            long result = 0;// co tinh de value nay
              
             for(int i =2; i<=n; i++)
                  result *=i;
